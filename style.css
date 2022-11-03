@@ -1,0 +1,18 @@
+body {
+
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;
+    background-color: blueviolet;
+}
+
+h1 {
+    background-color: wheat;
+    font-size: 22;
+    }
+
+p {
+    color: aqua;
+    font-size: 15;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
